@@ -52,9 +52,3 @@ Follow these steps to run the project locally
 
 ---
 
-## Contact
-
-- **GeeksforGeeks Profile**: [Your gfg](https://www.geeksforgeeks.org/user/garimamillicent/)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/garima-kashyap-75b1202b8/)
-- **GitHub**: [Your GitHub](https://github.com/garimaakashyap)
- 
